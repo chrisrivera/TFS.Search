@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFS.Search.Net", "TFS.Search.Net\TFS.Search.Net.csproj", "{546022BE-3252-4D9D-BC5B-2FBB9C360711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{546022BE-3252-4D9D-BC5B-2FBB9C360711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546022BE-3252-4D9D-BC5B-2FBB9C360711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546022BE-3252-4D9D-BC5B-2FBB9C360711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546022BE-3252-4D9D-BC5B-2FBB9C360711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AE44091-FC0B-4346-B0CF-DF2E0C9503AB}
+	EndGlobalSection
+EndGlobal
